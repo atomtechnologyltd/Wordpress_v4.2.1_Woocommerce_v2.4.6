@@ -1,0 +1,4 @@
+- Extraxt and copy this plugin in plugin folder (/wp-content/plugins) of your website
+- Activate plugin i.e Atom Payment Gateway From Wordpress Plugin Page
+- Go to Woo Commerce Setting and Click on Checkout then click on Atom Gateway in Checkout Option row.
+- Enable this checkout and fill required details for payment gateway
